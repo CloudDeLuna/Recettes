@@ -8,3 +8,4 @@
 ## Détails
 
 Faites ceci, cela et le reste...
+Version Américaine
