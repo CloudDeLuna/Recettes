@@ -1,5 +1,10 @@
-# Recette de Bronx
+# Faire un Bronx
 
-Liste d'ingrédients ...
+## Ingrédients
 
-Liste des étapes ...
+* Ingrédient 1
+* Ingrédient 2
+
+## Détails
+
+Faites ceci, cela et le reste...
