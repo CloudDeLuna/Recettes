@@ -9,7 +9,7 @@
 
 Faites ceci, cela et le reste...
 
-Version Américaine
+Version Schtroumpf Américaine
 
 Variantes de la recette initiale
 
