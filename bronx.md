@@ -8,3 +8,5 @@
 ## Détails
 
 Faites ceci, cela et le reste...
+
+Variantes de la recette initiale
