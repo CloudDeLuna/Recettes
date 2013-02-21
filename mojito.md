@@ -6,3 +6,5 @@
 * Ingrédient 2
 
 ## Détails
+
+Version Américaine
