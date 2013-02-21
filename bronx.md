@@ -8,4 +8,8 @@
 ## Détails
 
 Faites ceci, cela et le reste...
+
 Version Américaine
+
+Variantes de la recette initiale
+
